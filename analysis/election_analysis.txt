@@ -1,2 +1,5 @@
-Hello again
-did you save the last line?
+
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
