@@ -29,4 +29,5 @@ A Colorado Board of Elections employee has given us the task of auditing a recen
   - Diana DeGette received 272,892 votes, which comprise 73.8% of the total votes
   - Raymon Anthony Doane received 11,606 votes, which comprise 3.1% of the total votes
   
-![Print Results](https://user-images.githubusercontent.com/105169537/180851751-a2fc1283-8541-4bef-a0e7-b474b5eeeeca.png)
+  ![Print Results](https://user-images.githubusercontent.com/105169537/180852060-94f67c61-66ce-4211-89bb-18a3f5d22dd0.png)
+
